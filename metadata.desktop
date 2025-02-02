@@ -1,13 +1,13 @@
 [SddmGreeterTheme]
 Name=Nexa Wood
 Description=Official Nexa Wood theme for Nexa Linux.
-Author=The Nexa Linux team
+Author=Nexa Linux
 Copyright=(c) 2025 Nexa Linux
 License=CC-BY-SA
 Type=sddm-theme
 Version=0.1
 Website=https://github.com/NexaLinux/nexa-wood
-Screenshot=background.png
+Screenshot=screenshot.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 Theme-Id=nexa-wood
